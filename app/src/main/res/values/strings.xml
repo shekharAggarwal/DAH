@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">DAH</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api_HOME">AIzaSyBENQiKPSVh13cnFvAq-6uGTbim65qQaMU</string>
+    <string name="google_direction_api_CALL">AIzaSyBENQiKPSVh13cnFvAq-6uGTbim65qQaMU</string>
+    <string name="google_direction_api_FEE">AIzaSyBENQiKPSVh13cnFvAq-6uGTbim65qQaMU</string>
+    <string name="google_direction_api_DRAW">AIzaSyBENQiKPSVh13cnFvAq-6uGTbim65qQaMU</string>
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="title_activity_driver_home">DriverHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_trip_detail">Map</string>
+
+    <string name="FACEBOOK_APP_ID">303798936868955</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">c9c9d0b593266c345cb14fd9c7c8ed75</string>
+
+</resources>

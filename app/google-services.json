@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371797038322",
+    "firebase_url": "https://dathome-584b8.firebaseio.com",
+    "project_id": "dathome-584b8",
+    "storage_bucket": "dathome-584b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371797038322:android:2633fbe1f1f83d3b",
+        "android_client_info": {
+          "package_name": "com.dah.dah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371797038322-p355du7jnfuqbs7u1or7pgtcqcvsu57i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dah.dah",
+            "certificate_hash": "f28f904c39f606cd8657f7f44859c2569f385bfe"
+          }
+        },
+        {
+          "client_id": "371797038322-aib2tsgv0knfuts4dvg8qf7oqcke3fbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUGoqz7_AzlpkqiNaQcNZ-3-v5F7IysQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371797038322-aib2tsgv0knfuts4dvg8qf7oqcke3fbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
